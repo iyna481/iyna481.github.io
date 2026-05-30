@@ -29,5 +29,6 @@ I work on numerical and observational studies of cloud microphysical processes, 
 Please see my Google Scholar profile for an up-to-date publication list.
 
 ## Contact
+{: #contact }
 
 Please see the sidebar for my email, GitHub profile, and other academic links.
