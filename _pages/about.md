@@ -26,7 +26,7 @@ I work on numerical and observational studies of cloud microphysical processes, 
 
 ## Publications
 
-Please see my Google Scholar profile for an up-to-date publication list.
+Please see my <a href="https://scholar.google.com/citations?user=bovpp6UAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar profile</a> for an up-to-date publication list.
 
 ## Contact
 {: #contact }
