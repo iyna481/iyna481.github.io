@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am interested in cloud microphysics, aerosol-cloud interactions, turbulence, and atmospheric modeling.
+I am a Specially Appointed Assistant Professor working with Prof. Shin-ichiro Shima at the University of Hyogo.
 
-My research focuses on laboratory cloud chamber experiments, LES-SDM modeling, marine stratocumulus clouds, and cloud-top entrainment and mixing processes.
+My research focuses on cloud microphysics, aerosol-cloud interactions, turbulence, and atmospheric modeling. I am particularly interested in laboratory cloud chamber experiments, LES-SDM modeling, marine stratocumulus clouds, and cloud-top entrainment and mixing processes.
 
 ## Research interests
 
@@ -22,8 +22,12 @@ My research focuses on laboratory cloud chamber experiments, LES-SDM modeling, m
 
 ## Current research
 
-I work on numerical and observational studies of cloud microphysical processes, with an emphasis on how aerosols, turbulence, and entrainment influence cloud structure, droplet growth, and cloud optical properties.
+I work on numerical and observational studies of cloud microphysical processes, with an emphasis on how aerosols, turbulence, and entrainment influence cloud structure, droplet growth, precipitation processes, and cloud optical properties.
+
+## Publications
+
+Please see my Google Scholar profile for an up-to-date publication list.
 
 ## Contact
 
-Please see the sidebar for my GitHub profile and other academic links.
+Please see the sidebar for my email, GitHub profile, and other academic links.
