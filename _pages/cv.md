@@ -12,6 +12,11 @@ redirect_from:
 Specially Appointed Assistant Professor  
 University of Hyogo, Kobe, Japan
 
+## Previous position
+
+Postdoctoral Researcher  
+Climate & Environmental Research Institute, Korea Institute of Science and Technology (KIST), Seoul, Republic of Korea
+
 ## Research interests
 
 - Cloud microphysics
@@ -25,7 +30,3 @@ University of Hyogo, Kobe, Japan
 
 - Ph.D., Atmospheric Sciences, Yonsei University
 - B.S., Atmospheric Sciences, Yonsei University
-
-## Full CV
-
-A full CV can be provided upon request.
