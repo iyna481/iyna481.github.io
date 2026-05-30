@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "iyna481"
+title                    : "Inyeob La"
 title_separator          : "-"
-name                     : &name "iyna481"
+name                     : &name "Inyeob La"
 description              : &description "Personal academic website focused on cloud microphysics, aerosol-cloud interactions, turbulence, and atmospheric modeling."
 url                      : https://iyna481.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "iyna481/iyna481.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "iyna481"
+  name             : "Inyeob La"
   pronouns         :
-  bio              : "Researcher interested in cloud microphysics, aerosol-cloud interactions, and turbulence."
-  location         :
-  employer         :
+  bio              : "Specially Appointed Assistant Professor studying cloud microphysics, aerosol-cloud interactions, and turbulence."
+  location         : "Kobe, Japan"
+  employer         : "University of Hyogo"
   uri              :
-  email            :
+  email            : "iyna481@gmail.com"
 
   # Academic websites
   academia         :
