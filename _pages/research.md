@@ -6,11 +6,13 @@ author_profile: true
 
 My research focuses on cloud microphysics, aerosol-cloud interactions, turbulence, and atmospheric modeling.
 
+At the University of Hyogo, I work on super-droplet modeling of cloud microphysical processes under the supervision of Prof. Shin-ichiro Shima.
+
 ## Research topics
 
-### Cloud chamber experiments
+### Cloud chamber simulations
 
-I study cloud microphysical processes in controlled laboratory cloud chamber environments, including convection and expansion chamber experiments.
+I study cloud microphysical processes using numerical simulations of laboratory cloud chamber environments, including convection and expansion chamber configurations.
 
 ### LES-SDM modeling
 
