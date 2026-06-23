@@ -18,6 +18,7 @@ redirect_from:
     <span class="pill">Marine stratocumulus</span>
   </div>
 </div>
+<p class="image-credit">Image credit: <a href="https://visibleearth.nasa.gov/images/136245/open-cell-and-closed-cell-clouds-pacific-ocean/136247l" target="_blank" rel="noopener noreferrer">NASA Visible Earth</a>, LANCE/EOSDIS Rapid Response, Terra MODIS.</p>
 
 I am a Specially Appointed Assistant Professor working with Prof. Shin-ichiro Shima at the University of Hyogo.
 
