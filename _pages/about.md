@@ -7,14 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-<div style="position: relative; margin: 0 0 2rem 0; min-height: 260px; border-radius: 14px; overflow: hidden; background-image: linear-gradient(rgba(8, 28, 48, 0.45), rgba(8, 28, 48, 0.55)), url('https://assets.science.nasa.gov/content/dam/science/esd/eo/images/imagerecords/43000/43795/clperu_amo_2010107_lrg.jpg'); background-size: cover; background-position: center; box-shadow: 0 8px 24px rgba(0,0,0,0.12);">
-  <div style="position: absolute; left: 2rem; right: 2rem; bottom: 1.8rem; color: white;">
-    <div style="font-size: 2.2rem; font-weight: 700; line-height: 1.2;">Inyeob La</div>
-    <div style="font-size: 1.05rem; margin-top: 0.5rem; line-height: 1.5;">Cloud microphysics · Super-droplet modeling · Aerosol-cloud interactions</div>
+<div class="site-hero">
+  <p class="eyebrow">University of Hyogo · Shima Lab</p>
+  <h1>Inyeob La</h1>
+  <p>Specially Appointed Assistant Professor studying cloud microphysics, super-droplet modeling, and aerosol-cloud interactions.</p>
+  <div class="pill-row">
+    <span class="pill">Cloud microphysics</span>
+    <span class="pill">Super-droplet modeling</span>
+    <span class="pill">Aerosol-cloud interactions</span>
+    <span class="pill">Marine stratocumulus</span>
   </div>
 </div>
-
-<p style="font-size: 0.78rem; color: #777; margin-top: -1.2rem; margin-bottom: 2rem;">Image credit: NASA Earth Observatory / Jeff Schmaltz, MODIS Rapid Response Team at NASA GSFC.</p>
 
 I am a Specially Appointed Assistant Professor working with Prof. Shin-ichiro Shima at the University of Hyogo.
 
@@ -22,12 +25,24 @@ My research focuses on cloud microphysics, aerosol-cloud interactions, turbulenc
 
 ## Research interests
 
-- Cloud microphysics
-- Aerosol-cloud interactions
-- LES-SDM modeling
-- Cloud chamber simulations
-- Marine stratocumulus clouds
-- Cloud-top entrainment and mixing
+<div class="research-grid">
+  <div class="research-card">
+    <h3>Cloud microphysics</h3>
+    <p>Cloud particle growth, variability, and microphysical structure.</p>
+  </div>
+  <div class="research-card">
+    <h3>Aerosol-cloud interactions</h3>
+    <p>Aerosol effects on droplet activation, cloud structure, and precipitation.</p>
+  </div>
+  <div class="research-card">
+    <h3>LES-SDM modeling</h3>
+    <p>Large-eddy simulation with the super-droplet method.</p>
+  </div>
+  <div class="research-card">
+    <h3>Marine stratocumulus</h3>
+    <p>Entrainment, mixing, and vertical variations of cloud microphysics.</p>
+  </div>
+</div>
 
 ## Current research
 
