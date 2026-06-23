@@ -31,4 +31,4 @@ Please see my <a href="https://scholar.google.com/citations?user=bovpp6UAAAAJ&hl
 ## Contact
 {: #contact }
 
-Please see the sidebar for my email, GitHub profile, and other academic links.
+Please see the sidebar or the Contact page for my email and academic profile links.
