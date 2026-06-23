@@ -76,18 +76,22 @@
 }
 
 .site-hero {
-  margin: 0 0 2rem 0;
-  padding: 2rem;
-  border: 1px solid #dbeafe;
-  border-left: 6px solid #2563eb;
-  border-radius: 16px;
-  background: linear-gradient(135deg, #eff6ff 0%, #ffffff 55%, #f8fafc 100%);
-  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.06);
+  margin: 0 0 0.55rem 0;
+  padding: 2.2rem;
+  border-radius: 18px;
+  border: 1px solid #cbd5e1;
+  background:
+    linear-gradient(90deg, rgba(15, 23, 42, 0.86) 0%, rgba(30, 64, 175, 0.58) 58%, rgba(15, 23, 42, 0.34) 100%),
+    url("https://eoimages.gsfc.nasa.gov/images/imagerecords/136000/136245/PacificOcean.A2016032.1925_th.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  box-shadow: 0 14px 32px rgba(15, 23, 42, 0.12);
 }
 
 .site-hero .eyebrow {
   margin: 0 0 0.6rem 0;
-  color: #2563eb;
+  color: #bfdbfe;
   font-size: 0.86rem;
   font-weight: 700;
   letter-spacing: 0.04em;
@@ -98,6 +102,7 @@
   margin: 0;
   font-size: 2.25rem;
   line-height: 1.15;
+  color: #ffffff;
 }
 
 .site-hero p {
@@ -105,6 +110,19 @@
   max-width: 760px;
   font-size: 1.02rem;
   line-height: 1.65;
+  color: #f8fafc;
+}
+
+.image-credit {
+  margin: 0 0 2rem 0;
+  color: #64748b;
+  font-size: 0.78rem;
+  line-height: 1.4;
+}
+
+.image-credit a {
+  color: #64748b;
+  text-decoration: underline;
 }
 
 .pill-row {
@@ -117,12 +135,13 @@
 .pill {
   display: inline-block;
   padding: 0.35rem 0.7rem;
-  border: 1px solid #bfdbfe;
+  border: 1px solid rgba(255, 255, 255, 0.55);
   border-radius: 999px;
-  background: #ffffff;
-  color: #1e3a8a;
+  background: rgba(255, 255, 255, 0.16);
+  color: #ffffff;
   font-size: 0.85rem;
   font-weight: 600;
+  backdrop-filter: blur(2px);
 }
 
 .research-grid,
