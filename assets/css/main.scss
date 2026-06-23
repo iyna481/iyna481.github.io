@@ -41,3 +41,132 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Custom academic site styling */
+.author__avatar {
+  display: none;
+}
+
+.author__content {
+  margin-top: 0.5rem;
+}
+
+.author__name {
+  font-size: 1.25rem;
+}
+
+.author__bio {
+  color: #4b5563;
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.masthead {
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.greedy-nav a {
+  font-weight: 600;
+}
+
+.page__content h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.site-hero {
+  margin: 0 0 2rem 0;
+  padding: 2rem;
+  border: 1px solid #dbeafe;
+  border-left: 6px solid #2563eb;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #eff6ff 0%, #ffffff 55%, #f8fafc 100%);
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.06);
+}
+
+.site-hero .eyebrow {
+  margin: 0 0 0.6rem 0;
+  color: #2563eb;
+  font-size: 0.86rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.site-hero h1 {
+  margin: 0;
+  font-size: 2.25rem;
+  line-height: 1.15;
+}
+
+.site-hero p {
+  margin: 0.85rem 0 0 0;
+  max-width: 760px;
+  font-size: 1.02rem;
+  line-height: 1.65;
+}
+
+.pill-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 1.25rem;
+}
+
+.pill {
+  display: inline-block;
+  padding: 0.35rem 0.7rem;
+  border: 1px solid #bfdbfe;
+  border-radius: 999px;
+  background: #ffffff;
+  color: #1e3a8a;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.research-grid,
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+  margin: 1.1rem 0 1.8rem 0;
+}
+
+.research-card,
+.info-card {
+  padding: 1rem 1.05rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 6px 16px rgba(15, 23, 42, 0.04);
+}
+
+.research-card h3,
+.info-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.45rem;
+  font-size: 1.02rem;
+}
+
+.research-card p,
+.info-card p {
+  margin: 0;
+  line-height: 1.55;
+}
+
+.link-button {
+  display: inline-block;
+  margin-top: 0.8rem;
+  padding: 0.55rem 0.85rem;
+  border-radius: 10px;
+  background: #2563eb;
+  color: #ffffff !important;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.link-button:hover {
+  background: #1d4ed8;
+  text-decoration: none;
+}
